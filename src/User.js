@@ -1,0 +1,123 @@
+export const User = [
+  {
+    id: 1,
+    name: {
+      firstname: "Mark",
+      lastname: "Lopez",
+    },
+    course: "BSIT",
+    yearsection: "3A",
+    username: "marklopez",
+    password: "1111",
+    usertype: "STUDENT",
+  },
+  {
+    id: 2,
+    name: {
+      firstname: "Rey",
+      lastname: "Sanchez",
+    },
+    course: "BSIT",
+    yearsection: "3A",
+    username: "reysanchez",
+    password: "2222",
+    usertype: "STUDENT",
+  },
+  {
+    id: 3,
+    name: {
+      firstname: "Aldrin",
+      lastname: "Flores",
+    },
+    course: "BSIT",
+    yearsection: "3A",
+    username: "aldrin",
+    password: "3333",
+    usertype: "STUDENT",
+  },
+  {
+    id: 4,
+    name: {
+      firstname: "Troy",
+      lastname: "Sabang",
+    },
+    course: "BSIT",
+    yearsection: "3A",
+    username: "troysabang",
+    password: "4444",
+    usertype: "STUDENT",
+  },
+  {
+    id: 5,
+    name: {
+      firstname: "Dave",
+      lastname: "Pajota",
+    },
+    course: "BSIT",
+    yearsection: "3A",
+    username: "davepajota",
+    password: "5555",
+    usertype: "STUDENT",
+  },
+  {
+    id: 6,
+    name: {
+      firstname: "Roy",
+      lastname: "Tadlas",
+    },
+    course: "BSIT",
+    yearsection: "3A",
+    username: "roy",
+    password: "6666",
+    usertype: "STUDENT",
+  },
+  {
+    id: 7,
+    name: {
+      firstname: "Jerry",
+      lastname: "Ale",
+    },
+    course: "",
+    yearsection: "",
+    username: "Jerry",
+    password: "7777",
+    usertype: "TEACHER",
+  },
+  {
+    id: 8,
+    name: {
+      firstname: "Gabrine",
+      lastname: "Diaz",
+    },
+    course: "",
+    yearsection: "",
+    username: "Gabrine",
+    password: "8888",
+    usertype: "TEACHER",
+  },
+  {
+    id: 9,
+    name: {
+      firstname: "Fermo",
+      lastname: "Asufra",
+    },
+    course: "",
+    yearsection: "",
+    username: "Fermo",
+    password: "9999",
+    usertype: "TEACHER",
+  },
+  {
+    id: 10,
+    name: {
+      firstname: "Wenzeal",
+      lastname: "Agoc",
+    },
+    course: "",
+    yearsection: "",
+    username: "Wenzeal",
+    password: "1010",
+    usertype: "TEACHER",
+  },
+  
+];
